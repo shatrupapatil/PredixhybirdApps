@@ -7,8 +7,6 @@ import time
 import os
 import platform
 import shutil
-/*a*/
-
 
 def doesItExist(command, name, sectionNumber ) :
 	'''handle duplicates due to similar spellings, avoid using regular expressions'''
